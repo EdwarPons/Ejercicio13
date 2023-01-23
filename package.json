@@ -1,0 +1,25 @@
+{
+  "name": "ejercicio13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://EdwarPons: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@github.com/EdwarPons/Ejercicio13.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdwarPons/Ejercicio13/issues"
+  },
+  "homepage": "https://github.com/EdwarPons/Ejercicio13#readme",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
